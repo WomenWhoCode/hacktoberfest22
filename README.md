@@ -1,10 +1,10 @@
-## Women Who Code + Hacktoberfest 2021
+## Women Who Code + Hacktoberfest 2022
 
 **Website:** [https://womenwhocode.github.io/hacktoberfest22/](https://womenwhocode.github.io/hacktoberfest22/)
 
-This repository contains the code for the website for resources and projects worked on by communities within [Women Who Code](https://www.womenwhocode.com/) for [Hacktoberfest 2021](https://hacktoberfest.digitalocean.com/).
+This repository contains the code for the website for resources and projects worked on by communities within [Women Who Code](https://www.womenwhocode.com/) for [Hacktoberfest 2022](https://hacktoberfest.digitalocean.com/).
 
-Please refer to the [website](https://womenwhocode.github.io/hacktoberfest21/) for resources to contribute to open source, talks from people in the community around open source, and beginner projects to learn and practice for Hacktoberfest 2021.
+Please refer to the [website](https://womenwhocode.github.io/hacktoberfest22/) for resources to contribute to open source, talks from people in the community around open source, and beginner projects to learn and practice for Hacktoberfest 2022.
 
 This website has been built using [Jekyll](https://jekyllrb.com/) and hosted in [GitHub Pages](https://pages.github.com/).
 
@@ -40,7 +40,7 @@ You can help contribute in various ways:
           title:  "Your title"
           author: "Your name"
           ---`
-      - Name your file as `date of publishing-name` for example "2021-10-07-beginners-checklist.md"
+      - Name your file as `date of publishing-name` for example "2022-10-07-beginners-checklist.md"
       - Add it to a separate branch
       - And don't forget to add the `hacktoberfest` tag
 
@@ -51,5 +51,5 @@ You will need to install Jekyll on your machine following the instructions on th
 Once it is installed, you can run Jekyll by executing the command:
 `bundle exec jekyll serve`
 
-Go to `http://localhost:4000/hacktoberfest21/` (don't forget that trailing `/` at the end!) to see what the website looks like as you make your changes.
+Go to `http://localhost:4000/hacktoberfest22/` (don't forget that trailing `/` at the end!) to see what the website looks like as you make your changes.
 
