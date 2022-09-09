@@ -1,6 +1,6 @@
 ## Women Who Code + Hacktoberfest 2021
 
-**Website:** [https://womenwhocode.github.io/hacktoberfest21/](https://womenwhocode.github.io/hacktoberfest21/)
+**Website:** [https://womenwhocode.github.io/hacktoberfest21/](https://womenwhocode.github.io/hacktoberfest22/)
 
 This repository contains the code for the website for resources and projects worked on by communities within [Women Who Code](https://www.womenwhocode.com/) for [Hacktoberfest 2021](https://hacktoberfest.digitalocean.com/).
 
