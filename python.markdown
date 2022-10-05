@@ -2,7 +2,7 @@
 layout: page
 title: Women Who Code Python Track
 permalink: /python/
-background: "/img/pythontrack.png"
+background: "/img/2022_Hacktoberfest_Wallpaper_desktop-02.png"
 twitter_username: WWCodePython
 github_url: https://github.com/WomenWhoCode/WWCodePython
 facebook_username: WWCodePython
