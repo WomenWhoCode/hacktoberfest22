@@ -2,7 +2,7 @@
 layout: page
 title: Women Who Code Frontend Track
 permalink: /frontend/
-# background: '/img/blockchaintrack.png'
+# background: '/img/bg-computer.jpeg'
 twitter_username: WWCodeFrontEnd
 instagram_username: wwcodefrontend1
 linkedin_username: women-who-code-front-end
