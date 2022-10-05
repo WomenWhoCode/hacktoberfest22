@@ -1,6 +1,7 @@
 ---
 layout: home
-background: '/img/hacktoberfest2022-wwcode-python.jpg' 
+# background: '/img/bg-computer.jpeg'
+# background: '/img/hacktoberfest2022-wwcode-python.jpg' 
 twitter_username:   WomenWhoCode
 github_username:    WomenWhoCode
 facebook_username:  womenwhocode
