@@ -2,7 +2,7 @@
 layout: page
 title: Women Who Code Data Science Track
 permalink: /datascience/
-background: '/img/datascience.png'
+background: '/img/bg-computer.jpeg'
 twitter_username: WWCodeData
 github_url: https://github.com/WomenWhoCode/WWCodeDataScience
 facebook_username: wwcodedatascience
