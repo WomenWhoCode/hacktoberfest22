@@ -20,7 +20,7 @@ If you are excited for the Hacktoberfest let us drive into a quick checklist you
 
 :heavy_check_mark: Make a Pull Request to the repository with the `hacktoberfest` tag
 
-:heavy_check_mark: You need to make <u> four commits with the "hacktoberfest" tag by October 31st 2021</u> 
+:heavy_check_mark: You need to make <u> four commits with the "hacktoberfest" tag by October 31st 2022</u> 
 
 :x: If your commit is tagged as `invalid` or `spam`, then it won't be counted towards Hacktoberfest
 
