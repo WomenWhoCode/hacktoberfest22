@@ -10,7 +10,7 @@ instagram_username: womenwhocode
 linkedin_username:  women-who-code
 ---
 
-## Hacktoberfest 2021 Official Website
+## Hacktoberfest 2022 Official Website
 
 To check out the offical Hacktoberfest website and more resources, please click [here](https://hacktoberfest.digitalocean.com/)
 
