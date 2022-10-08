@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Hacktoberfest 2021"
+title:  "Welcome to Hacktoberfest 2022"
 categories: jekyll update
 toc: true
 ---
