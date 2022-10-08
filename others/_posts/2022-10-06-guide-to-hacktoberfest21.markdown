@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Guide to Hacktoberfest 2021"
+title: "Guide to Hacktoberfest 2022"
 categories: jekyll update
 author: Chethana Gopinath
 ---
 
 Hi there!
 
-If you’re reading this blog post, you’re probably going to participate in Hacktoberfest 2021 or are thinking of it. Without any more chit chat, let’s get you equipped with all you may need to know/do to get started! These aren't exhaustive but just some of the things that you may need to keep in mind :)
+If you’re reading this blog post, you’re probably going to participate in Hacktoberfest 2022 or are thinking of it. Without any more chit chat, let’s get you equipped with all you may need to know/do to get started! These aren't exhaustive but just some of the things that you may need to keep in mind :)
 
-Before anything, it may get you up to speed to visit the official website for Hacktoberfest 2021 - specifically, the [FAQ section](https://hacktoberfest.digitalocean.com/faq) there. You will have answers for anything ranging from what is Open Source and Hacktoberfest and how you can participate to questions about submitted PRs(Pull Requests) and their eligibility for Hacktoberfest.
+Before anything, it may get you up to speed to visit the official website for Hacktoberfest 2022 - specifically, the [FAQ section](https://hacktoberfest.digitalocean.com/faq) there. You will have answers for anything ranging from what is Open Source and Hacktoberfest and how you can participate to questions about submitted PRs(Pull Requests) and their eligibility for Hacktoberfest.
 
 ## Some important terms to know
 
@@ -27,8 +27,8 @@ Before anything, it may get you up to speed to visit the official website for Ha
 
 ## To keep in mind
 
-- Make sure to create a GitHub account and sign up for Hacktoberfest21 in the website
-- Also take a look at the [list of events](https://hacktoberfest.digitalocean.com/events) that folks are hosting for Hacktoberfest21 - there are many online events and workshops for Hacktoberfest generally so defintely check these out!
+- Make sure to create a GitHub account and sign up for Hacktoberfest22 in the website
+- Also take a look at the [list of events](https://hacktoberfest.digitalocean.com/events) that folks are hosting for Hacktoberfest22 - there are many online events and workshops for Hacktoberfest generally so defintely check these out!
 - May help to know a bit about Git CLI or GitHub PR process (else you can learn it on the go!)
 - Good to think about what tech and language you're most comfortable developing in (in case you want to fix issues or work on features)
 - Get familiar with the terminal and have a code editor/IDE of your preference.
