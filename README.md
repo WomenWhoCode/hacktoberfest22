@@ -51,5 +51,5 @@ You will need to install Jekyll on your machine following the instructions on th
 Once it is installed, you can run Jekyll by executing the command:
 `bundle exec jekyll serve`
 
-Go to `http://localhost:4000/hacktoberfest21/` (don't forget that trailing `/` at the end!) to see what the website looks like as you make your changes.
+Go to `http://localhost:4000/hacktoberfest22/` (don't forget that trailing `/` at the end!) to see what the website looks like as you make your changes.
 
